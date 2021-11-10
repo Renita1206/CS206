@@ -7,3 +7,4 @@ DDCO Lab - 3rd Semester
 * Week 4 - 16 Bit Register
 * Week 5 - ALU Register Implementation
 * Week 6 - Program Counter
+* Week 7 - Control Unit
